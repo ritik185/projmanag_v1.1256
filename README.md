@@ -7,9 +7,9 @@ It allows teams to create and manage projects, assign tasks to team members, set
 its not a final version
 
 Features
-Create new projects
-Assign tasks to team members
-Set deadlines
-Create custom task lists
-Assign due dates to individual tasks
+Create new projects, 
+Assign tasks to team members,
+Set deadlines,
+Create custom task lists,
+Assign due dates to individual tasks.
 
